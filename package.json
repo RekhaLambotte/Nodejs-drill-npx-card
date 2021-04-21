@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-drill-npx-card",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RekhaLambotte/Nodejs-drill-npx-card.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RekhaLambotte/Nodejs-drill-npx-card/issues"
+  },
+  "homepage": "https://github.com/RekhaLambotte/Nodejs-drill-npx-card#readme",
+  "dependencies": {
+    "boxen": "^5.0.1",
+    "chalk": "^4.1.1"
+  }
+}
