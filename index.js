@@ -4,7 +4,7 @@ const chalk = require("chalk");
 const boxen = require("boxen");
 
 const data = {
-    name: chalk.whiteBright("              Rekha Lambotte"),
+    name: chalk.whiteBright("Rekha Lambotte"),
     handle: chalk.white ("Rekha"),
     work: chalk.white ("Web develeoper junior"),
     npm: (""),
