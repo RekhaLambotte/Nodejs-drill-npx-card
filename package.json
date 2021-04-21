@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-drill-npx-card",
+  "name": "rekha-card",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -19,5 +19,8 @@
   "dependencies": {
     "boxen": "^5.0.1",
     "chalk": "^4.1.1"
+  },
+  "bin": {
+    "rekha": "./index.js"
   }
 }

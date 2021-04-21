@@ -4,14 +4,12 @@ const chalk = require("chalk");
 const boxen = require("boxen");
 
 const data = {
-    name: chalk.whiteBright("Rekha Lambotte"),
-    handle: chalk.white ("Rekha"),
-    work: chalk.white ("Web develeoper junior"),
-    npm: (""),
-    github: (""),
-    Linkedin: (""),
-    npx: (""),
-    npm: (""),
+    name: chalk.black("Rekha Lambotte"),
+    work: chalk.black ("Web develeoper junior"),
+    npm: chalk.blue("https://www.npmjs.com/~rekharekha"),
+    github: chalk.blue("https://github.com/RekhaLambotte"),
+    Linkedin: chalk.blue("https://www.linkedin.com/in/rekha-lambotte-8b56701b7/"),
+    npx: chalk.blue("")
 
 };
 
@@ -22,9 +20,19 @@ console.log(
     chalk.green(
         boxen(
             [
-                `${data.name} / ${data.handle}`,
+                `${data.name} `,
                 EMPTYLINE,
-                `${data.work}`
+                `${data.work}`,
+                EMPTYLINE,
+                `${data.github}`,
+                EMPTYLINE,
+                `${data.Linkedin}`,
+                EMPTYLINE,
+                `${data.npm}`,
+                EMPTYLINE,
+                `${data.npx}`,
+                EMPTYLINE,
+
             ].join(NEWLINE),
             {
                 padding: 1,
