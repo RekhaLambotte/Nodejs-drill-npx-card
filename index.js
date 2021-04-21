@@ -5,7 +5,7 @@ const boxen = require("boxen");
 
 const data = {
     name: chalk.black("Rekha Lambotte"),
-    work: chalk.black ("Web develeoper junior"),
+    work: chalk.black ("Web developer junior"),
     npm: chalk.blue("https://www.npmjs.com/~rekharekha"),
     github: chalk.blue("https://github.com/RekhaLambotte"),
     Linkedin: chalk.blue("https://www.linkedin.com/in/rekha-lambotte-8b56701b7/"),

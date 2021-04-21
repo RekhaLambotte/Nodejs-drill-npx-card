@@ -25,4 +25,4 @@ Lien Github : https://github.com/RekhaLambotte/Nodejs-drill-npx-card.git
 
 Lien web: https://www.npmjs.com/settings/rekharekha/packages
 
-Lien npx: npx i rekha-card
+Lien npx: npx rekha-card
