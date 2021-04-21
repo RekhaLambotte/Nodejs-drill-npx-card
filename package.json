@@ -1,6 +1,6 @@
 {
   "name": "rekha-card",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,6 @@
     "chalk": "^4.1.1"
   },
   "bin": {
-    "rekha": "./index.js"
+    "rekha": "index.js"
   }
 }
