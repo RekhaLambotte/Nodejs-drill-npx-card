@@ -13,7 +13,7 @@ Javascript
 projet solo
 
 ## Instructions:
-Créer un package npm pour afficher les jours fériés d'un pays précis
+Créer une carte de visite npx
 
 Délai: 1,5 jour
 
@@ -24,3 +24,5 @@ terminé
 Lien Github : https://github.com/RekhaLambotte/Nodejs-drill-npx-card.git
 
 Lien web: https://www.npmjs.com/settings/rekharekha/packages
+
+Lien npx: npx i rekha-card
